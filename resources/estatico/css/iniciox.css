@@ -1,0 +1,23 @@
+﻿
+.main {
+    background-color: #163338;
+}
+
+.bg-light {
+    background-color: #003563 !important;
+}
+
+.body {
+    background-color: #163338;
+}
+
+body {
+    /* Ubicación de la imagen */
+
+    background-color: #163338;
+}
+
+.bg-dark {
+    --bs-bg-opacity: 1;
+    background-color: #0e111624 !important;
+}
